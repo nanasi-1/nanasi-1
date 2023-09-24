@@ -15,9 +15,7 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 こんにちは、@nanasi-1です！  
-そのうちプログラマーを目指すかもしれない、  
 どこにでもいるただの人です。  
-ちなみに英語ができません。
 
 N予備校でプログラミングを学んでいます。  
 ...といっても最近は特に何もやってないです((
