@@ -7,18 +7,6 @@
 - 💞️ I’m looking to collaborate on 何書けばいいのここ...
 - 📫 How to reach me ...
 
-<!---
-nanasi-1/nanasi-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* * *
 
-<hr>
-
-こんにちは、@nanasi-1です！  
-どこにでもいるただの人です。  
-
-N予備校でプログラミングを学んでいます。  
-...といっても最近は特に何もやってないです((
-
-GitHubの使い方すら分かってない初心者ですが、  
-よくしていだだけたら幸いです。
+プロフィールって何書けばいいんだろ
